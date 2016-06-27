@@ -1,5 +1,5 @@
 # vonKoch-Algorithm
-The "von Koch Curve", named from his inventer the swedish mathematician Helge von Koch [1870-1924], is the precursor of the Fractal field
+The "von Koch Curve", named from his inventor the swedish mathematician Helge von Koch [1870-1924], is the precursor of the Fractal field
 
 From scratch, personal writing of the formula in ES6
 
