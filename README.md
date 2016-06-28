@@ -3,4 +3,4 @@ The "von Koch Curve", named from his inventor the swedish mathematician Helge vo
 
 From scratch, personal writing of the formula in ES6
 
-*note: need to be re-write to allow infinit loop (fractal standard principal)*
+*note: need to be re-write to allow infinite loop (fractal standard principal)*
